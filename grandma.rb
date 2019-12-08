@@ -1,6 +1,6 @@
 def speak_to_grandma
   if == "I LOVE YOU GRANDMA!"
-    p "I LOVE YOU TOOPUMPKIN!"
+    return "I LOVE YOU TOOPUMPKIN!"
 end 
   
 
